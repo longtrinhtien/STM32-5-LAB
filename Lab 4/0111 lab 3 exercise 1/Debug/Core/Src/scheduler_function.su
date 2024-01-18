@@ -1,0 +1,10 @@
+scheduler_function.c:42:6:SCH_Init	16	static
+scheduler_function.c:58:6:moveToRight	32	static
+scheduler_function.c:67:6:correctDelay	48	static
+scheduler_function.c:147:6:SCH_Update	4	static
+scheduler_function.c:162:6:swap	48	static
+scheduler_function.c:176:15:SCH_Add_Task	32	static
+scheduler_function.c:199:6:SCH_Dispatch_Tasks	16	static
+scheduler_function.c:225:6:SCH_Delete_Task	32	static
+scheduler_function.c:240:6:SCH_Go_To_Sleep	4	static
+scheduler_function.c:245:6:SCH_Report_Status	4	static
